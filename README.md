@@ -5,8 +5,8 @@
 <p><em>Software Enginner at <a href="[http://www.unb.br](https://aws.amazon.com/free/?trk=6a4c3e9d-cdc9-4e25-8dd9-2bd8d15afbca&sc_channel=ps&ef_id=Cj0KCQjww-HABhCGARIsALLO6XyonPhq2dZ3yhj-IWYoSTA1ghiZ0ns8BW0GIrjM0ndzU5dS3Ga06iYaAh5UEALw_wcB:G:s&s_kwcid=AL!4422!3!651751059777!e!!g!!amazon%20web%20services!19852662197!145019195737&gad_campaignid=19852662197&gbraid=0AAAAADjHtp-oOpGsNRITElCUT-uOEpmlW&gclid=Cj0KCQjww-HABhCGARIsALLO6XyonPhq2dZ3yhj-IWYoSTA1ghiZ0ns8BW0GIrjM0ndzU5dS3Ga06iYaAh5UEALw_wcB&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)">Amazon Web Services</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Computer Science and Engineering Student at<a href="[https://international.nubank.com.br/about/](https://www.ucdavis.edu/)">UC Davis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/denilneil/))
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Denil Neil](https://img.shields.io/badge/-denilneil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denilneil/)]([https://www.linkedin.com/in/denilneil/](https://www.linkedin.com/in/denilneil/))
+[![GitHub Thaiane]([https://img.shields.io/github/followers/thaiane?label=follow&style=social](https://img.shields.io/github/followers/denil-neil?label=follow&style=social))](https://github.com/Denil-Neil)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -26,6 +26,6 @@ const denil = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</em>
 
 ---
