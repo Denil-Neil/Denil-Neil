@@ -6,7 +6,7 @@
 </em></p>
 
 [![Linkedin: Denil Neil](https://img.shields.io/badge/-denilneil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denilneil/)]([https://www.linkedin.com/in/denilneil/](https://www.linkedin.com/in/denilneil/))
-[![GitHub Denil]([https://img.shields.io/github/followers/Denil-Neil?label=follow&style=social](https://img.shields.io/github/followers/denil-neil?label=follow&style=social))](https://github.com/Denil-Neil)
+[![GitHub Denil]([https://img.shields.io/github/followers/Denil-Neil?label=follow&style=social])](https://github.com/Denil-Neil)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
